@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baho0307&label=Profile%20views&color=0e75b6&style=flat" alt="baho0307" /> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **OpenGL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
